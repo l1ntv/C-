@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <TrainSchedule>
+    <TrainNumber>1323</TrainNumber>
+    <From>Аа</From>
+    <Where>Аа</Where>
+    <SendingTime>13:50</SendingTime>
+    <ArrivalTime>13:50</ArrivalTime>
+    <ParkingTimeInMinutes>5</ParkingTimeInMinutes>
+  </TrainSchedule>
+</NewDataSet>
